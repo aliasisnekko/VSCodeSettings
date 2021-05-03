@@ -1,0 +1,42 @@
+{
+    "editor.hover.enabled": true,
+    "editor.quickSuggestionsDelay": 0,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.quickSuggestions": true,
+    "editor.tabSize": 2,
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.scopeLineRelativePosition":false,
+    "bracketPairColorizer.colorMode":"Consecutive",
+    "bracketPairColorizer.showVerticalScopeLine": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "editor.tokenColorCustomizations": {
+        "variables": "#e24d39",
+        "strings": "#fff",
+        "functions": "#e24d39",
+        "numbers": "#fff200",
+        "types": "#8fd6e1",
+        "keywords": "#FF00FF",
+        "comments": "#32CD32"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#542e71", 
+        "activityBarBadge.background": "#000",
+        "activityBar.foreground": "#00ffff",
+        "activityBarBadge.foreground":"#ff0000",
+        "editorLineNumber.foreground": "#FF69B4",
+        "editorLineNumber.activeForeground": "#660074",
+        "sideBar.border": "#FF69B4",
+        "sideBar.background": "#663399",
+        "contrastBorder": "#FF69B4",
+        "tab.border": "#FF69B4",
+        "tab.activeBorder": "#FF69B4",
+        "statusBar.background": "#FF69B4",
+        "editor.background": "#330e58",
+
+    },
+    "editor.fontSize": 18,
+    "git.ignoreLimitWarning": true
+}
